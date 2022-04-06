@@ -15,5 +15,11 @@ I am a 3rd year student of Management Information Systems at Medipol University.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recepock&layout=compact)](https://github.com/recepock/github-readme-stats)
 
-<h3 align="left">My 42 Status</h3>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1o5fdx3001109l6j8ikidjq/stats?cursusId=21&coalitionId=195" alt="aocak's 42 stats" /></a>
+<h2 align="left">My 42 Status</h2>
+<a href="https://profile.intra.42.fr/users/aocak"><img src="https://badge42.vercel.app/api/v2/cl1o5fdx3001109l6j8ikidjq/stats?cursusId=21&coalitionId=195" alt="aocak's 42 stats" /></a>
+
+<h3>get_next_line</h3><a href="https://profile.intra.42.fr/users/aocak"><img src="https://badge42.vercel.app/api/v2/cl1o5fdx3001109l6j8ikidjq/project/2522557" alt="aocak's 42 get_next_line Score" /></a>
+
+<h3>ft_printf</h3><a href="https://profile.intra.42.fr/users/aocak"><img src="https://badge42.vercel.app/api/v2/cl1o5fdx3001109l6j8ikidjq/project/2514766" alt="aocak's 42 ft_printf Score" /></a>
+
+<h3>libft</h3><a href="https://profile.intra.42.fr/users/aocak"><img src="https://badge42.vercel.app/api/v2/cl1o5fdx3001109l6j8ikidjq/project/2450327" alt="aocak's 42 Libft Score" /></a>
