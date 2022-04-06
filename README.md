@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Recep</h1>
 
-- 🌱 I’m currently student at **Ecole 42**
+I am a 3rd year student of Management Information Systems at Medipol University. I am actively studying at the French-born Ecole 42 and Google game and application development academy in the field of software. I have knowledge in C, HTML - CSS, SQL, Photoshop and I'm learning Unity. In my spare time, I deal with digital drawing and design.
 
 - 📫 How to reach me **arocak13@gmail.com**
 
